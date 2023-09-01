@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/eren-cennetkuşu-a84b6b168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren-cennetkuşu-a84b6b168" height="30" width="40" /></a>
 <a href="https://fb.com/erencennetkusu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erencennetkusu" height="30" width="40" /></a>
 <a href="https://instagram.com/erencennetkusu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erencennetkusu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yazilim guncesi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yazilim guncesi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucmuaz20ubezewbwjpgeep8a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmuaz20ubezewbwjpgeep8a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
