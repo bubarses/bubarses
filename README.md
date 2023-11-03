@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/erencennetkusu" target="blank"><img src="https://img.shields.io/twitter/follow/erencennetkusu?logo=twitter&style=for-the-badge" alt="erencennetkusu" /></a> </p>
 
-- 🔭 I’m currently working on [Doviz Apisi](https://github.com/erencennetkusu/TCMBDovizConverterApi)
+- 🔭 I’m currently working on [Asp.Net Core 7.0  Form App](https://github.com/erencennetkusu/asp-dotnet-core-7.0-forms-app)
 
 - 🌱 I’m currently learning **Btk Akademi,Udemy,Youtube**
 
